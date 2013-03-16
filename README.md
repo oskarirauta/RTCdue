@@ -1,7 +1,7 @@
 RTCdue
 ======
 
-DS1703 library for DUE that doesn't need wire.h
+DS1703 library for DUE that doesn't need wire.h. Should work on others as well, just make sure you initialize with sda and scl pins if you cannot get it to work..
 
 Combination of Adafruit's RTClib and Henning Karlsen's DS1703 RTC library ( http://www.henningkarlsen.com/electronics/library.php?id=34 ).
 
