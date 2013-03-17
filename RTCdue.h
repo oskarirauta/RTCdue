@@ -5,7 +5,7 @@
 // Released to the public domain! Enjoy!
 
 // Edited by Oskari Rauta. 
-// i2c functionality adapted from DS1703 library of Henning Karlsen - no more wire.h needed
+// i2c functionality adapted from DS1307 library of Henning Karlsen - no more wire.h needed
 // Due now supported and calculation of 
 // day of week now works. 3/16/2013
 
