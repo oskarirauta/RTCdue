@@ -1,6 +1,6 @@
 // Date and time functions using just software, based on millis() & timer
 
-#include "RTClib.h"
+#include "RTCdue.h"
 
 RTC_Millis rtc;
 
